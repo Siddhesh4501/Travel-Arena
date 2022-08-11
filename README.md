@@ -60,7 +60,7 @@ Nurtured from the seed of a single great idea - to empower the traveller – Tra
 * To run the project on your Localhost :
     * Clone the repository : 
     ```sh 
-    https://github.com/pt3002/PPL-Project.git
+    https://github.com/Siddhesh4501/Travel-Arena.git
     ```
     * At the project root run : 
     ```sh 
