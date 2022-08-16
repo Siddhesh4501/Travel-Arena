@@ -4,16 +4,12 @@
     <img src="https://github.com/pt3002/PPL-Project/blob/main/Travel_Final_Logo.png" alt="Logo" width="420" height="420">
   </a>
 </p>
-<p align="center">
-    <a href="https://travelarena.netlify.app/">Click here to view demo</a>
-</p>
                                                                                                                 
 ## Table of Contents
 
 * [About the Project](#about-the-project)
   * [Central Idea](#central-idea)
   * [Built With](#built-with)
-  * [Hosted With](#hosted-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Screenshots](#screenshots)
@@ -32,21 +28,6 @@ Nurtured from the seed of a single great idea - to empower the traveller – Tra
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-## Hosted With
-<p float = "left">
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
-<p>
-  Backend is hosted on heroku whereas Frontend is hosted on Netlify
-</p>
-<p>
-  <a href="https://travelarena.netlify.app/">Website Demo</a>
-</p>
-<p>
-  Backend is stored on MongoDB Atlas AWS Cloud
 </p>
 
 ## Getting Started
@@ -80,9 +61,6 @@ Nurtured from the seed of a single great idea - to empower the traveller – Tra
 ![AboutUsPage](Screenshots/AboutUs.jpeg)
   - ### FAQ Page
 ![FAQPage](https://user-images.githubusercontent.com/87142754/155875447-ce6f12c3-c896-4db4-b3b9-4027aa6ca75b.jpeg)
-
-
-For Looking at other features <a href="https://travelarena.netlify.app/">Sign up</a> to our website.
 
 ## Team 
 1. [112003112 - Siddhesh Pawar](https://github.com/Siddhesh4501)
