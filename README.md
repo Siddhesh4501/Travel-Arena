@@ -46,7 +46,9 @@ Nurtured from the seed of a single great idea - to empower the traveller – Tra
   - ### Login Page
 ![LoginPage](https://github.com/Siddhesh4501/Travel-Arena/blob/71ad32ac56656f6b44585a707025f64b1b4263e4/Screenshots/LoginPage.png)
   - ### List of Places
-![WebsitePage](![WebsitePage](https://github.com/Siddhesh4501/Travel-Arena/blob/71ad32ac56656f6b44585a707025f64b1b4263e4/Screenshots/List_of_Places.png)
+![WebsitePage](https://github.com/Siddhesh4501/Travel-Arena/blob/71ad32ac56656f6b44585a707025f64b1b4263e4/Screenshots/List_of_Places.png)
+  - ### Filter Page
+![WebsitePage](https://github.com/Siddhesh4501/Travel-Arena/blob/f8eb73b794738b72b9a95997c1f1bea1f7b6c42e/Screenshots/Selection_by_filter.png)
   - ### Aboutus Page
 ![AboutUsPage](https://github.com/Siddhesh4501/Travel-Arena/blob/71ad32ac56656f6b44585a707025f64b1b4263e4/Screenshots/AboutUs.png)
   - ### FAQ Page
