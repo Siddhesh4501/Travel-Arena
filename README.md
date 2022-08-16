@@ -37,16 +37,6 @@ Nurtured from the seed of a single great idea - to empower the traveller – Tra
 * npm
 * MongoDB
 
-### Installation
-* To run the project on your Localhost :
-    * Clone the repository : 
-    ```sh 
-    https://github.com/Siddhesh4501/Travel-Arena.git
-    ```
-    * At the project root run : 
-    ```sh 
-    npm run dev
-    ```
         
 ## Screenshots
   - ### Starting Page
